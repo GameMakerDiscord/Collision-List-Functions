@@ -1,4 +1,4 @@
-# collision_*_line functions
+# collision_*_list functions
 ### @YellowAfterlife
 
-A demonstration of the new collision_*_line functions in GMS2.1.5
+A demonstration of the new collision_*_list functions in GMS2.1.5
