@@ -63,22 +63,6 @@
             }
         },
         {
-            "Key": "3a5af38c-757d-41ae-98c0-5d4b09e14e6a",
-            "Value": {
-                "id": "b034bd92-b813-478b-96f7-b51d532c00c9",
-                "resourcePath": "options\\switch\\options_switch.yy",
-                "resourceType": "GMSwitchOptions"
-            }
-        },
-        {
-            "Key": "3a5af38c-757d-44ae-98c0-5d4b09e14e6a",
-            "Value": {
-                "id": "7cd2af10-f085-42bf-8126-0a29ebbb175f",
-                "resourcePath": "options\\ps4\\options_ps4.yy",
-                "resourceType": "GMPS4Options"
-            }
-        },
-        {
             "Key": "3b0df6d7-fcf5-44d7-aa2a-644b6aa0aa96",
             "Value": {
                 "id": "d8523315-0af0-45ff-b24a-aea6d1180a46",
